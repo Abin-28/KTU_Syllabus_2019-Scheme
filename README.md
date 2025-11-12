@@ -15,7 +15,7 @@ This repository contains the **complete syllabus for Computer Science and Engine
 
 Official syllabus and course structure taken from:
 - KTU Official Website [ktu.edu.in/academics/scheme](https://ktu.edu.in/academics/scheme)
-  → Navigate to “2019 Scheme” → “Branch” → “Computer Science and Engineering (Full Time) [Started Year:2019 – 2020]” → “Syllabus” 
+- { → Navigate to “2019 Scheme” → “Branch” → “Computer Science and Engineering (Full Time) [Started Year:2019 – 2020]” → “Syllabus” }
 - Department of Computer Science & Engineering, KTU
 
 
