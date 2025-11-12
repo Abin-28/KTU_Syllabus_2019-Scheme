@@ -1,4 +1,4 @@
-# KTU Computer Science & Engineering Syllabus (2019 Scheme)
+# KTU Computer Science and Engineering Syllabus (2019 Scheme)
 
 This repository contains the **complete syllabus for Computer Science and Engineering (CSE)** under the **2019 scheme** of **APJ Abdul Kalam Technological University (KTU)**, covering **Semesters 1 to 8 (S1–S8)**.
 
